@@ -1,4 +1,4 @@
-# Hey, I'm Anjani 👋
+# Hey, I'm Anjani Beesu
 
 **Computer Science undergraduate | AI & Software Engineering | Product-minded builder**
 
