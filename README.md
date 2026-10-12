@@ -1,26 +1,33 @@
-<!--
-Profile design: restrained black and butter yellow, with an editorial hierarchy.
-GitHub README rendering has limited font and CSS support, so this layout prioritizes clean Markdown and robust rendering.
--->
+<!-- Visual identity: near-black, warm ivory, and butter yellow. -->
 
-<p><strong>ANJANI BEESU</strong><br>
-HYDERABAD, INDIA &nbsp; / &nbsp; SOFTWARE ENGINEERING · PRODUCT ENGINEERING · APPLIED AI</p>
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Anjani Beesu — Software Engineering, Product Thinking, Data-Driven Systems" width="100%" />
+</p>
 
-# Engineering with intent.<br>Building for real use.
-
-Computer Science undergraduate focused on full-stack development, applied AI, and product-minded engineering. I enjoy turning ideas into usable applications, working through technical constraints, and building systems with clear behavior and practical value.
-
-[LinkedIn](https://www.linkedin.com/in/anjanibeesu/) &nbsp; / &nbsp; [GitHub](https://github.com/AnjaniBeesu) &nbsp; / &nbsp; [Portfolio](https://portfolio-theta-olive-54.vercel.app/) &nbsp; / &nbsp; [Email](mailto:anjanibeesu@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/anjanibeesu/">LINKEDIN</a>
+  &nbsp; <strong>／</strong> &nbsp;
+  <a href="https://github.com/AnjaniBeesu">GITHUB</a>
+  &nbsp; <strong>／</strong> &nbsp;
+  <a href="https://portfolio-theta-olive-54.vercel.app/">PORTFOLIO</a>
+  &nbsp; <strong>／</strong> &nbsp;
+  <a href="mailto:anjanibeesu@gmail.com">EMAIL</a>
+</p>
 
 ---
 
-## Education
+<table>
+  <tr>
+    <td bgcolor="#F3E7A3" width="180"><strong>01 / EDUCATION</strong></td>
+    <td>
+      <strong>ACE Engineering College</strong> — B.Tech, Computer Science Engineering<br>
+      Hyderabad, India &nbsp; · &nbsp; Aug 2025 – 2029<br>
+      <strong>CGPA:</strong> 8.80
+    </td>
+  </tr>
+</table>
 
-**ACE Engineering College** — B.Tech, Computer Science Engineering  
-Hyderabad, India &nbsp; / &nbsp; Aug 2025 – 2029  
-**CGPA:** 8.80
-
-## Toolkit
+## 02 / Toolkit
 
 | **Discipline** | **Tools and technologies** |
 |:--|:--|
@@ -31,43 +38,74 @@ Hyderabad, India &nbsp; / &nbsp; Aug 2025 – 2029
 | **Applied AI** | LLM integration · RAG · tool calling · prompt-injection testing |
 | **Engineering** | Git · GitHub · Docker · Vercel |
 
-## Selected projects
+## 03 / Selected projects
 
-Six repositories spanning product development, AI security, data, and automation.
+Six repositories across product development, security, data, and automation.
 
-| Project | Focus | Repository |
-|:--|:--|:--|
-| **STUKO** | Student study platform · Next.js · Firebase Authentication | [View repository](https://github.com/AnjaniBeesu/STUKO) |
-| **The Space** | Interactive solar system · ISS tracking API | [View repository](https://github.com/AnjaniBeesu/space) |
-| **Pathloom** | Student productivity · Personalized learning | [View repository](https://github.com/AnjaniBeesu/Pathloom) |
-| **Prompt Injection Playground** | AI security testing · Risk scoring · Defense evaluation | [View repository](https://github.com/AnjaniBeesu/Prompt-injection-playground) |
-| **CRICKO** | Cricket analytics · RAG · Match data | [View repository](https://github.com/AnjaniBeesu/CRICKO) |
-| **AI Invoice Processing Agent** | Document extraction · Validation · Workflow automation | [View repository](https://github.com/AnjaniBeesu/AI-invoice-processing-agent) |
+<table>
+  <tr>
+    <td bgcolor="#F3E7A3" width="235"><strong><a href="https://github.com/AnjaniBeesu/STUKO">STUKO ↗</a></strong></td>
+    <td>Student study platform · Next.js · Firebase Authentication</td>
+  </tr>
+  <tr>
+    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/space">The Space ↗</a></strong></td>
+    <td>Interactive solar system · ISS tracking API</td>
+  </tr>
+  <tr>
+    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/Pathloom">Pathloom ↗</a></strong></td>
+    <td>Student productivity · Personalized learning</td>
+  </tr>
+  <tr>
+    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/Prompt-injection-playground">Prompt Injection Playground ↗</a></strong></td>
+    <td>AI security testing · Risk scoring · Defense evaluation</td>
+  </tr>
+  <tr>
+    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/CRICKO">CRICKO ↗</a></strong></td>
+    <td>Cricket analytics · RAG · Match data</td>
+  </tr>
+  <tr>
+    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/AI-invoice-processing-agent">AI Invoice Processing Agent ↗</a></strong></td>
+    <td>Document extraction · Validation · Workflow automation</td>
+  </tr>
+</table>
 
-## Leadership experience
+## 04 / Leadership
 
 **Class Representative — ACE Engineering College**  
-Semester 1 – Present
+*Semester 1 – Present*
 
 - Selected in Semester 1 and retained the role through consistent leadership and coordination.
 - Coordinate academic communication between 60+ students and faculty, including schedules, attendance, submissions, and issue resolution.
 - Coordinated four departmental events and one college-level event, maintaining attendance and logistics records in Excel.
 
-## Certification
+## 05 / Certification
 
 **Python for Data Science, AI & Development — IBM**  
 [Verify certificate](https://www.coursera.org/account/accomplishments/verify/3XOBG399VIG7)
 
-## GitHub activity
+## 06 / GitHub activity
 
-I keep this section tied to GitHub itself rather than third-party statistic widgets, which can fail to load and may not represent private-repository activity.
+I keep activity links native to GitHub instead of relying on third-party statistic widgets that can fail to load or misrepresent private-repository activity.
 
 - [Contribution activity and profile overview](https://github.com/AnjaniBeesu)
 - [All repositories](https://github.com/AnjaniBeesu?tab=repositories)
 
 ---
 
-<p><strong>CONTACT</strong><br>
-<a href="mailto:anjanibeesu@gmail.com">anjanibeesu@gmail.com</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/anjanibeesu/">LinkedIn</a> &nbsp; / &nbsp; <a href="https://portfolio-theta-olive-54.vercel.app/">Portfolio</a></p>
+<table>
+  <tr>
+    <td bgcolor="#111111">
+      <p><strong><span style="color:#F3E7A3;">LET'S BUILD SOMETHING USEFUL.</span></strong></p>
+      <p><span style="color:#F7F5EC;">Open to conversations about software engineering, data-intensive products, developer tools, and early-career opportunities.</span></p>
+      <p>
+        <a href="mailto:anjanibeesu@gmail.com"><span style="color:#F3E7A3;">anjanibeesu@gmail.com</span></a>
+        &nbsp; / &nbsp;
+        <a href="https://www.linkedin.com/in/anjanibeesu/"><span style="color:#F3E7A3;">LinkedIn</span></a>
+        &nbsp; / &nbsp;
+        <a href="https://portfolio-theta-olive-54.vercel.app/"><span style="color:#F3E7A3;">Portfolio</span></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p><sub>BUILD WITH INTENT. ENGINEER WITH RIGOR. IMPROVE WITH EVIDENCE.</sub></p>
+<p align="right"><sub>BUILD WITH INTENT. ENGINEER WITH RIGOR. IMPROVE WITH EVIDENCE.</sub></p>
