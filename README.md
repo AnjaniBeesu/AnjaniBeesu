@@ -76,12 +76,11 @@ Six repositories across product development, security, data, and automation.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD" alt="Most-used languages for AnjaniBeesu" />
 </p>
 
-<sub>Stats are provided by GitHub Readme Stats. Language percentages reflect code in public repositories and are not a measure of skill.</sub>
 
 ## 05 / Leadership
 
 **Class Representative**  
-*Semester 1 – Present*
+*Semester 1 – Present (semester 3)*
 
 - Selected in Semester 1 and retained the role through consistent leadership and coordination.
 - Coordinate academic communication between 60+ students and faculty, including schedules, attendance, submissions, and issue resolution.
