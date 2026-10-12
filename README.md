@@ -16,16 +16,10 @@
 
 ---
 
-<table>
-  <tr>
-    <td bgcolor="#FFFFFF" width="180"><strong>01 / EDUCATION</strong></td>
-    <td>
-      B.Tech · Computer Science Engineering (CSE)<br>
-      2025 – 2029 &nbsp; · &nbsp; CGPA: 8.80<br>
-      <strong>Current focus:</strong> Core CS · Backend systems · Product engineering
-    </td>
-  </tr>
-</table>
+## 01 / Education
+
+**B.Tech · Computer Science Engineering (CSE)**  
+2025 – 2029 &nbsp; · &nbsp; CGPA: 8.80
 
 ## 02 / Tech Stack I Work With
 
@@ -99,14 +93,12 @@ Six repositories across product development, security, data, and automation.
 <table>
   <tr>
     <td bgcolor="#111111">
-      <p><strong><span style="color:#FFFFFF;">LET'S BUILD SOMETHING USEFUL.</span></strong></p>
-      <p><span style="color:#DDDDDD;">Open to conversations about software engineering, data-intensive products, developer tools, and early-career opportunities.</span></p>
+      <p><strong><span style="color:#FFFFFF;">CONNECT WITH ME</span></strong></p>
+      <p><span style="color:#DDDDDD;">I’m open to internships, early-career opportunities, and project collaborations. Feel free to reach out if you’d like to work together or discuss an idea.</span></p>
       <p>
-        <a href="mailto:anjanibeesu@gmail.com"><span style="color:#FFFFFF;">anjanibeesu@gmail.com</span></a>
-        &nbsp; / &nbsp;
         <a href="https://www.linkedin.com/in/anjanibeesu/"><span style="color:#FFFFFF;">LinkedIn</span></a>
         &nbsp; / &nbsp;
-        <a href="https://portfolio-theta-olive-54.vercel.app/"><span style="color:#FFFFFF;">Portfolio</span></a>
+        <a href="mailto:anjanibeesu@gmail.com"><span style="color:#FFFFFF;">anjanibeesu@gmail.com</span></a>
       </p>
     </td>
   </tr>
