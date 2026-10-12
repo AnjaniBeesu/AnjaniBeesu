@@ -1,4 +1,4 @@
-<!-- Visual identity: near-black, warm ivory, and butter yellow. -->
+<!-- Visual identity: monochrome black and white. -->
 
 <p align="center">
   <img src="./assets/profile-header.svg" alt="Anjani Beesu — Software Engineering, Product Thinking, Data-Driven Systems" width="100%" />
@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td bgcolor="#F3E7A3" width="180"><strong>01 / EDUCATION</strong></td>
+    <td bgcolor="#FFFFFF" width="180"><strong>01 / EDUCATION</strong></td>
     <td>
       <strong>ACE Engineering College</strong> — B.Tech, Computer Science Engineering<br>
       Hyderabad, India &nbsp; · &nbsp; Aug 2025 – 2029<br>
@@ -44,27 +44,27 @@ Six repositories across product development, security, data, and automation.
 
 <table>
   <tr>
-    <td bgcolor="#F3E7A3" width="235"><strong><a href="https://github.com/AnjaniBeesu/STUKO">STUKO ↗</a></strong></td>
+    <td bgcolor="#FFFFFF" width="235"><strong><a href="https://github.com/AnjaniBeesu/STUKO">STUKO ↗</a></strong></td>
     <td>Student study platform · Next.js · Firebase Authentication</td>
   </tr>
   <tr>
-    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/space">The Space ↗</a></strong></td>
+    <td bgcolor="#FFFFFF"><strong><a href="https://github.com/AnjaniBeesu/space">The Space ↗</a></strong></td>
     <td>Interactive solar system · ISS tracking API</td>
   </tr>
   <tr>
-    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/Pathloom">Pathloom ↗</a></strong></td>
+    <td bgcolor="#FFFFFF"><strong><a href="https://github.com/AnjaniBeesu/Pathloom">Pathloom ↗</a></strong></td>
     <td>Student productivity · Personalized learning</td>
   </tr>
   <tr>
-    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/Prompt-injection-playground">Prompt Injection Playground ↗</a></strong></td>
+    <td bgcolor="#FFFFFF"><strong><a href="https://github.com/AnjaniBeesu/Prompt-injection-playground">Prompt Injection Playground ↗</a></strong></td>
     <td>AI security testing · Risk scoring · Defense evaluation</td>
   </tr>
   <tr>
-    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/CRICKO">CRICKO ↗</a></strong></td>
+    <td bgcolor="#FFFFFF"><strong><a href="https://github.com/AnjaniBeesu/CRICKO">CRICKO ↗</a></strong></td>
     <td>Cricket analytics · RAG · Match data</td>
   </tr>
   <tr>
-    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/AI-invoice-processing-agent">AI Invoice Processing Agent ↗</a></strong></td>
+    <td bgcolor="#FFFFFF"><strong><a href="https://github.com/AnjaniBeesu/AI-invoice-processing-agent">AI Invoice Processing Agent ↗</a></strong></td>
     <td>Document extraction · Validation · Workflow automation</td>
   </tr>
 </table>
@@ -72,7 +72,7 @@ Six repositories across product development, security, data, and automation.
 ## 04 / GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_border=true&include_all_commits=true&bg_color=111111&title_color=F3E7A3&text_color=F7F5EC&icon_color=F3E7A3" alt="GitHub stats for AnjaniBeesu" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=111111&title_color=F3E7A3&text_color=F7F5EC&icon_color=F3E7A3" alt="GitHub stats for AnjaniBeesu" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&hide_border=true&bg_color=111111&title_color=F3E7A3&text_color=F7F5EC" alt="Most-used languages for AnjaniBeesu" />
 </p>
 
@@ -100,14 +100,14 @@ Six repositories across product development, security, data, and automation.
 <table>
   <tr>
     <td bgcolor="#111111">
-      <p><strong><span style="color:#F3E7A3;">LET'S BUILD SOMETHING USEFUL.</span></strong></p>
-      <p><span style="color:#F7F5EC;">Open to conversations about software engineering, data-intensive products, developer tools, and early-career opportunities.</span></p>
+      <p><strong><span style="color:#FFFFFF;">LET'S BUILD SOMETHING USEFUL.</span></strong></p>
+      <p><span style="color:#DDDDDD;">Open to conversations about software engineering, data-intensive products, developer tools, and early-career opportunities.</span></p>
       <p>
-        <a href="mailto:anjanibeesu@gmail.com"><span style="color:#F3E7A3;">anjanibeesu@gmail.com</span></a>
+        <a href="mailto:anjanibeesu@gmail.com"><span style="color:#FFFFFF;">anjanibeesu@gmail.com</span></a>
         &nbsp; / &nbsp;
-        <a href="https://www.linkedin.com/in/anjanibeesu/"><span style="color:#F3E7A3;">LinkedIn</span></a>
+        <a href="https://www.linkedin.com/in/anjanibeesu/"><span style="color:#FFFFFF;">LinkedIn</span></a>
         &nbsp; / &nbsp;
-        <a href="https://portfolio-theta-olive-54.vercel.app/"><span style="color:#F3E7A3;">Portfolio</span></a>
+        <a href="https://portfolio-theta-olive-54.vercel.app/"><span style="color:#FFFFFF;">Portfolio</span></a>
       </p>
     </td>
   </tr>
