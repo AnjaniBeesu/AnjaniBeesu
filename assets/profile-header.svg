@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Anjani Beesu — Software Engineering, Data, Applied AI</title>
-  <desc id="desc">Editorial black and butter-yellow profile banner.</desc>
+  <desc id="desc">Editorial monochrome black-and-white profile banner.</desc>
   <rect width="1200" height="340" fill="#111111"/>
-  <rect x="0" y="0" width="16" height="340" fill="#F3E7A3"/>
-  <circle cx="1030" cy="155" r="150" fill="none" stroke="#F3E7A3" stroke-width="1.5" opacity=".28"/>
-  <circle cx="1030" cy="155" r="112" fill="none" stroke="#F3E7A3" stroke-width="1.5" opacity=".48"/>
-  <circle cx="1030" cy="155" r="74" fill="#F3E7A3"/>
+  <rect x="0" y="0" width="16" height="340" fill="#FFFFFF"/>
+  <circle cx="1030" cy="155" r="150" fill="none" stroke="#FFFFFF" stroke-width="1.5" opacity=".28"/>
+  <circle cx="1030" cy="155" r="112" fill="none" stroke="#FFFFFF" stroke-width="1.5" opacity=".48"/>
+  <circle cx="1030" cy="155" r="74" fill="#FFFFFF"/>
   <path d="M982 155h96M1030 107v96" stroke="#111111" stroke-width="2" opacity=".7"/>
-  <text x="72" y="68" fill="#F3E7A3" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">COMPUTER SCIENCE  /  HYDERABAD, INDIA</text>
-  <text x="68" y="164" fill="#F7F5EC" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">ANJANI BEESU</text>
-  <rect x="72" y="194" width="82" height="5" fill="#F3E7A3"/>
-  <text x="72" y="242" fill="#F7F5EC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Software engineering. Product thinking.</text>
-  <text x="72" y="275" fill="#F7F5EC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Data-driven systems.</text>
-  <text x="72" y="316" fill="#F3E7A3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">BUILD WITH INTENT  —  IMPROVE WITH EVIDENCE</text>
-  <path d="M72 88H720" stroke="#F3E7A3" stroke-width="1" opacity=".3"/>
+  <text x="72" y="68" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">COMPUTER SCIENCE  /  HYDERABAD, INDIA</text>
+  <text x="68" y="164" fill="#DDDDDD" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">ANJANI BEESU</text>
+  <rect x="72" y="194" width="82" height="5" fill="#FFFFFF"/>
+  <text x="72" y="242" fill="#DDDDDD" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Software engineering. Product thinking.</text>
+  <text x="72" y="275" fill="#DDDDDD" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Data-driven systems.</text>
+  <text x="72" y="316" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">BUILD WITH INTENT  —  IMPROVE WITH EVIDENCE</text>
+  <path d="M72 88H720" stroke="#FFFFFF" stroke-width="1" opacity=".3"/>
 </svg>
