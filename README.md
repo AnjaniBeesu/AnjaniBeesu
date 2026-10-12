@@ -20,16 +20,16 @@ Computer Science undergraduate focused on full-stack development, applied AI, an
 Hyderabad, India &nbsp; / &nbsp; Aug 2025 – 2029  
 **CGPA:** 8.80
 
-## Technical skills
+## Toolkit
 
-| Area | Skills |
+| **Discipline** | **Tools and technologies** |
 |:--|:--|
-| **Programming** | Java, Python, C, SQL, JavaScript, TypeScript |
-| **Web development** | HTML, CSS, Next.js, Node.js, Flask, MySQL, API integration |
-| **AI and automation** | LLM APIs, prompt engineering, agent and tool calling, RAG, Codex |
-| **Core concepts** | OOP, DSA, DBMS, Operating Systems, Computer Networks, System Design |
-| **Product and business** | Product discovery, requirements gathering, feature prioritization, user journey mapping, business analysis |
-| **Tools and deployment** | VS Code, Git, GitHub, Docker, Vercel |
+| **Languages** | Python · Java · C · SQL · JavaScript · TypeScript |
+| **Frontend** | React · Next.js · HTML · CSS |
+| **Backend** | Node.js · Flask · REST APIs |
+| **Data** | MySQL · relational data modeling · data analysis |
+| **Applied AI** | LLM integration · RAG · tool calling · prompt-injection testing |
+| **Engineering** | Git · GitHub · Docker · Vercel |
 
 ## Selected projects
 
