@@ -1,102 +1,129 @@
-# Anjani Beesu
+<!--
+Visual direction: near-black, butter yellow, restrained editorial typography.
+GitHub README rendering does not support loading a custom font reliably; hierarchy is created with concise headings, spacing, and contrast.
+-->
 
-### Engineering useful software. Designing for real users. Measuring what matters.
-
-I am a Computer Science undergraduate and product-minded software developer interested in building dependable, thoughtfully designed applications. My work spans full-stack development, data-driven systems, developer tooling, and applied AI. I care about more than getting a feature to work: I want to understand the problem, make sound engineering decisions, validate the result, and deliver something people can actually use.
-
-I build at the intersection of **software engineering, data, and product thinking** — with a bias toward clear reasoning, practical execution, and continuous improvement.
-
----
-
-## Core Tech Stack
-
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Python, Java, C, SQL, JavaScript, TypeScript |
-| **Frontend** | React, Next.js, HTML, CSS |
-| **Backend and APIs** | Node.js, Flask, REST API integration |
-| **Data and Storage** | MySQL, relational database design, data analysis |
-| **Applied AI** | LLM API integration, retrieval-augmented generation (RAG), tool calling, prompt-injection testing |
-| **Engineering Tools** | Git, GitHub, Docker, Vercel, VS Code |
-| **Product Development** | Requirements analysis, user journeys, feature prioritization, iterative delivery |
+<div align="left">
+  <p><strong><span style="color:#DCCB78;">ANJANI BEESU</span></strong> &nbsp; / &nbsp; SOFTWARE · DATA · PRODUCT</p>
+  <h1>Engineering with intent.<br>Building for real use.</h1>
+  <p><em>Computer Science undergraduate · Full-stack development · Applied AI</em></p>
+</div>
 
 ---
 
-## Selected Work
+I build software at the intersection of engineering, data, and product thinking. I’m interested in systems that do more than make a convincing demo: they should be understandable, dependable, and useful to the person on the other side of the screen.
 
-### [CRICKO](https://github.com/AnjaniBeesu/CRICKO)
-**Cricket analytics | Data retrieval | Evidence-grounded answers**
+My work spans full-stack applications, data-driven tools, developer tooling, and applied AI. I care about clear problem framing, deliberate implementation, and validating what a system actually does.
 
-Exploring how cricket questions can be answered with structured match data, reproducible calculations, and traceable evidence. The design principle is simple: calculate statistics deterministically and ground explanations in evidence rather than trusting a language model to invent numbers.
+<table>
+  <tr>
+    <td bgcolor="#111111" width="33%">
+      <p><strong><span style="color:#E9D98A;">01 / BUILD</span></strong></p>
+      <p><span style="color:#FFFFFF;">Full-stack products</span></p>
+      <p><span style="color:#C7C7C7;">Interfaces, APIs, and end-to-end application flows.</span></p>
+    </td>
+    <td bgcolor="#111111" width="33%">
+      <p><strong><span style="color:#E9D98A;">02 / REASON</span></strong></p>
+      <p><span style="color:#FFFFFF;">Data and AI systems</span></p>
+      <p><span style="color:#C7C7C7;">Structured data, grounded outputs, and measurable behavior.</span></p>
+    </td>
+    <td bgcolor="#111111" width="33%">
+      <p><strong><span style="color:#E9D98A;">03 / REFINE</span></strong></p>
+      <p><span style="color:#FFFFFF;">Product-minded engineering</span></p>
+      <p><span style="color:#C7C7C7;">Thoughtful UX, edge cases, and maintainable decisions.</span></p>
+    </td>
+  </tr>
+</table>
 
-### [Prompt Injection Playground](https://github.com/AnjaniBeesu/Prompt-injection-playground)
-**Application security | Threat evaluation | Defensive engineering**
+## Toolkit
 
-A practical environment for examining prompt-injection risks, evaluating attack scenarios, and exploring how application design can strengthen security boundaries.
+| Discipline | Tools and technologies |
+|:--|:--|
+| **Languages** | Python · Java · C · SQL · JavaScript · TypeScript |
+| **Frontend** | React · Next.js · HTML · CSS |
+| **Backend** | Node.js · Flask · REST APIs |
+| **Data** | MySQL · relational data modeling · data analysis |
+| **Applied AI** | LLM integration · RAG · tool calling · prompt-injection testing |
+| **Engineering** | Git · GitHub · Docker · Vercel |
 
-### [AI Invoice Processing Agent](https://github.com/AnjaniBeesu/AI-invoice-processing-agent)
-**Document workflows | Data validation | Business process automation**
+## Selected work
 
-An invoice-processing workflow focused on extracting structured information, validating records, and connecting document processing with approval-oriented operations.
+A few projects that reflect the kinds of problems I like exploring.
 
-### [Pathloom](https://github.com/AnjaniBeesu/Pathloom)
-**Full-stack development | Product execution**
+<table>
+  <tr>
+    <td bgcolor="#F3E7A3" width="30%"><strong><a href="https://github.com/AnjaniBeesu/CRICKO" style="color:#111111;">CRICKO ↗</a></strong><br><sub>DATA · SPORTS</sub></td>
+    <td>
+      <strong>Cricket answers grounded in evidence.</strong><br>
+      Exploring a data-driven approach where statistics are calculated deterministically and explanations are traceable to match evidence.
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/Prompt-injection-playground" style="color:#111111;">Prompt Injection Playground ↗</a></strong><br><sub>SECURITY · AI</sub></td>
+    <td>
+      <strong>Testing the boundaries of AI applications.</strong><br>
+      A practical environment for exploring prompt-injection scenarios and defensive application design.
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/AI-invoice-processing-agent" style="color:#111111;">AI Invoice Processing ↗</a></strong><br><sub>AUTOMATION · DATA</sub></td>
+    <td>
+      <strong>Turning documents into validated records.</strong><br>
+      An invoice workflow focused on structured extraction, validation, and business-process automation.
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/Pathloom" style="color:#111111;">Pathloom ↗</a></strong><br><sub>FULL STACK</sub></td>
+    <td>
+      <strong>Taking a product idea into a working application.</strong><br>
+      Full-stack product development with an emphasis on turning an initial concept into a usable experience.
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#F3E7A3"><strong><a href="https://github.com/AnjaniBeesu/STUKO" style="color:#111111;">STUKO ↗</a></strong><br><sub>STUDENT TOOLS</sub></td>
+    <td>
+      <strong>Building for student workflows.</strong><br>
+      A student-focused web application using Next.js and Firebase Authentication, including Google sign-in.
+    </td>
+  </tr>
+</table>
 
-A web product built with an emphasis on translating an idea into a usable application.
+<p><a href="https://github.com/AnjaniBeesu?tab=repositories">Browse all repositories →</a></p>
 
-### [STUKO](https://github.com/AnjaniBeesu/STUKO)
-**Student productivity | Web application development**
+## Activity, without the noise
 
-A student-focused platform built with Next.js and Firebase Authentication, including Google sign-in.
+I’ve removed third-party stats cards and view counters so the profile doesn’t depend on external widget services, break when a hosted card is unavailable, or imply access to private-repository data.
 
-[Explore all repositories](https://github.com/AnjaniBeesu?tab=repositories)
+For an accurate, current view of my work, use GitHub’s own activity and repository pages:
+
+- **[Contribution activity](https://github.com/AnjaniBeesu)** — GitHub’s native contribution graph on my profile.
+- **[Repository overview](https://github.com/AnjaniBeesu?tab=repositories)** — projects, languages, and repository details.
+
+I’d rather show verifiable activity than publish numbers that may be incomplete or misleading.
+
+## Engineering principles
+
+- **Start with the problem.** Understand users, constraints, and success criteria before choosing the implementation.
+- **Make outputs verifiable.** Prefer deterministic calculations, clear data flows, and evidence-backed results.
+- **Design for failure, not just the demo.** Think through edge cases, security boundaries, and maintainability.
+- **Improve through delivery.** Build, test assumptions, learn from what breaks, and iterate.
 
 ---
 
-## Live Metrics
+<table>
+  <tr>
+    <td bgcolor="#111111">
+      <p><strong><span style="color:#F3E7A3;">HAVE A GOOD PROBLEM TO SOLVE?</span></strong></p>
+      <p><span style="color:#FFFFFF;">I’m open to conversations about software engineering, data-intensive products, developer tools, and early-career opportunities.</span></p>
+      <p>
+        <a href="https://www.linkedin.com/in/anjanibeesu/"><span style="color:#F3E7A3;">LinkedIn ↗</span></a>
+        &nbsp; / &nbsp;
+        <a href="https://vercel.com/anjani-beesus-projects/portfolio"><span style="color:#F3E7A3;">Portfolio ↗</span></a>
+        &nbsp; / &nbsp;
+        <a href="https://github.com/AnjaniBeesu"><span style="color:#F3E7A3;">GitHub ↗</span></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-These cards update automatically using my public GitHub activity. They offer a snapshot of repository contributions and the languages represented in my public code.
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" alt="GitHub account statistics for Anjani Beesu" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&langs_count=8" alt="Most-used languages across public repositories" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnjaniBeesu" alt="GitHub contribution streak statistics" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnjaniBeesu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile view counter" />
-</p>
-
----
-
-## How I Approach Engineering
-
-- **Understand before implementing.** Define the user problem and constraints before choosing a solution.
-- **Prefer evidence over assumptions.** Validate outputs, make limitations visible, and use measurable criteria where possible.
-- **Build beyond the demo.** Consider maintainability, failure cases, security, and the experience of the person using the product.
-- **Keep learning through delivery.** Turn concepts into working projects, examine what fails, and improve the implementation.
-
----
-
-## Let's Build Something Meaningful
-
-I welcome conversations about software engineering, developer tools, data-intensive applications, and product-focused opportunities.
-
-<p>
-  <a href="https://github.com/AnjaniBeesu">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://github.com/AnjaniBeesu/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-View%20source-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio source repository" />
-  </a>
-</p>
-
----
-
-<p align="center"><em>Build with intent. Engineer with rigor. Improve with evidence.</em></p>
+<p><sub>BUILD WITH INTENT. ENGINEER WITH RIGOR. IMPROVE WITH EVIDENCE.</sub></p>
