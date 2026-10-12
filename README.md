@@ -4,7 +4,7 @@ GitHub README rendering has limited font and CSS support, so this layout priorit
 -->
 
 <p><strong>ANJANI BEESU</strong><br>
-HYDERABAD, INDIA &nbsp; / &nbsp; SOFTWARE ENGINEERING · DATA · APPLIED AI</p>
+HYDERABAD, INDIA &nbsp; / &nbsp; SOFTWARE ENGINEERING · PRODUCT ENGINEERING · APPLIED AI</p>
 
 # Engineering with intent.<br>Building for real use.
 
