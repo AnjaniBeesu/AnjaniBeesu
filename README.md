@@ -34,8 +34,6 @@
 
 ## 03 / Selected projects
 
-Six repositories across product development, security, data, and automation.
-
 <table>
   <tr>
     <td bgcolor="#FFFFFF" width="235"><strong><a href="https://github.com/AnjaniBeesu/STUKO">STUKO ↗</a></strong></td>
