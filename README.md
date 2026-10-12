@@ -22,7 +22,7 @@
     <td>
       <strong>ACE Engineering College</strong> — B.Tech, Computer Science Engineering<br>
       Hyderabad, India &nbsp; · &nbsp; Aug 2025 – 2029<br>
-      <strong>CGPA:</strong> 8.80
+      <strong>Current focus:</strong> Core CS · Backend systems · Product engineering
     </td>
   </tr>
 </table>
