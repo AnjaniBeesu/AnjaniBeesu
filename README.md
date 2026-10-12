@@ -20,14 +20,14 @@
   <tr>
     <td bgcolor="#FFFFFF" width="180"><strong>01 / EDUCATION</strong></td>
     <td>
-      <strong>ACE Engineering College</strong> — B.Tech, Computer Science Engineering<br>
-      Hyderabad, India &nbsp; · &nbsp; Aug 2025 – 2029<br>
+      B.Tech · Computer Science Engineering (CSE)<br>
+      2025 – 2029 &nbsp; · &nbsp; CGPA: 8.80<br>
       <strong>Current focus:</strong> Core CS · Backend systems · Product engineering
     </td>
   </tr>
 </table>
 
-## 02 / Toolkit
+## 02 / Tech Stack I Work With
 
 | **Discipline** | **Tools and technologies** |
 |:--|:--|
@@ -72,15 +72,15 @@ Six repositories across product development, security, data, and automation.
 ## 04 / GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=111111&title_color=F3E7A3&text_color=F7F5EC&icon_color=F3E7A3" alt="GitHub stats for AnjaniBeesu" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&hide_border=true&bg_color=111111&title_color=F3E7A3&text_color=F7F5EC" alt="Most-used languages for AnjaniBeesu" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD&icon_color=FFFFFF" alt="GitHub stats for AnjaniBeesu" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD" alt="Most-used languages for AnjaniBeesu" />
 </p>
 
 <sub>Stats are provided by GitHub Readme Stats. Language percentages reflect code in public repositories and are not a measure of skill.</sub>
 
 ## 05 / Leadership
 
-**Class Representative — ACE Engineering College**  
+**Class Representative**  
 *Semester 1 – Present*
 
 - Selected in Semester 1 and retained the role through consistent leadership and coordination.
