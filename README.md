@@ -1,5 +1,9 @@
 <!-- Visual identity: monochrome black and white. -->
 
+<p align="center">
+  <img src="assets/animated-clouds.svg" width="100%" alt="Subtle drifting translucent clouds" />
+</p>
+
 <h1 align="center">ANJANI BEESU</h1>
 
 <p align="center">
