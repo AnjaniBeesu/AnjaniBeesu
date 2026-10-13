@@ -1,4 +1,4 @@
-<!-- Visual identity: monochrome black and white>
+<!-- Visual identity: monochrome black and white. -->
 
 <h1 align="center">ANJANI BEESU</h1>
 
