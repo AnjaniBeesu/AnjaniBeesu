@@ -1,7 +1,7 @@
 <!-- Visual identity: monochrome black and white. -->
 
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Anjani Beesu — Software Engineering, Product Thinking, Data-Driven Systems" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=28&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=800&height=90&lines=ANJANI+BEESU;CSE+UNDERGRADUATE;BUILDING+USEFUL+SOFTWARE" alt="Animated introduction: Anjani Beesu, CSE undergraduate, building useful software" />
 </p>
 
 <p align="center">
