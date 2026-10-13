@@ -1,20 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Anjani Beesu — CSE Undergraduate</title>
-  <desc id="desc">Minimal black-and-white profile banner with clean typography and geometric line details.</desc>
+  <desc id="desc">Minimal black-and-white animated profile intro with a subtle line reveal and fade-in typography.</desc>
   <rect width="1200" height="340" fill="#111111"/>
   <rect x="0" y="0" width="16" height="340" fill="#FFFFFF"/>
   <path d="M72 88H760" stroke="#FFFFFF" stroke-width="1" opacity=".32"/>
   <path d="M900 0V340M930 0V340M960 0V340M990 0V340M1020 0V340M1050 0V340M1080 0V340M1110 0V340M1140 0V340M1170 0V340" stroke="#FFFFFF" stroke-width="1" opacity=".07"/>
   <path d="M900 70H1160M900 270H1160" stroke="#FFFFFF" stroke-width="1" opacity=".3"/>
-  <rect x="900" y="88" width="260" height="164" fill="none" stroke="#FFFFFF" stroke-width="1" opacity=".45"/>
-  <text x="72" y="68" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">CSE UNDERGRADUATE</text>
-  <text x="68" y="164" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">ANJANI BEESU</text>
-  <rect x="72" y="194" width="82" height="5" fill="#FFFFFF"/>
-  <text x="72" y="242" fill="#DDDDDD" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Software engineering. Product thinking.</text>
-  <text x="72" y="275" fill="#DDDDDD" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Data-driven systems.</text>
-  <text x="72" y="316" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">BUILD WITH INTENT  —  IMPROVE WITH EVIDENCE</text>
-  <text x="925" y="145" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">COMPUTER</text>
-  <text x="925" y="170" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">SCIENCE</text>
-  <path d="M925 188H1135" stroke="#FFFFFF" stroke-width="2"/>
-  <text x="925" y="222" fill="#DDDDDD" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">2025 — 2029</text>
+  <rect x="900" y="88" width="260" height="164" fill="none" stroke="#FFFFFF" stroke-width="1" opacity=".45">
+    <animate attributeName="opacity" values="0.15;0.8;0.45" dur="1.8s" begin="0s" fill="freeze"/>
+  </rect>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="0.15s" fill="freeze"/>
+    <text x="72" y="68" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">CSE UNDERGRADUATE</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.45s" fill="freeze"/>
+    <text x="68" y="164" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">ANJANI BEESU</text>
+  </g>
+  <rect x="72" y="194" width="0" height="5" fill="#FFFFFF">
+    <animate attributeName="width" values="0;82" dur="0.65s" begin="0.9s" fill="freeze"/>
+  </rect>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="0.95s" fill="freeze"/>
+    <text x="72" y="242" fill="#DDDDDD" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Software engineering. Product thinking.</text>
+    <text x="72" y="275" fill="#DDDDDD" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Data-driven systems.</text>
+    <text x="72" y="316" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">BUILD WITH INTENT  —  IMPROVE WITH EVIDENCE</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="0.7s" fill="freeze"/>
+    <text x="925" y="145" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">COMPUTER</text>
+    <text x="925" y="170" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">SCIENCE</text>
+    <path d="M925 188H1135" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="925" y="222" fill="#DDDDDD" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">2025 — 2029</text>
+  </g>
 </svg>
