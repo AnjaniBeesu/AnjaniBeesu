@@ -7,8 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anjanibeesu/">LINKEDIN</a>
   &nbsp; <strong>／</strong> &nbsp;
-  <a href="https://github.com/AnjaniBeesu">GITHUB</a>
-  &nbsp; <strong>／</strong> &nbsp;
   <a href="https://portfolio-theta-olive-54.vercel.app/">PORTFOLIO</a>
   &nbsp; <strong>／</strong> &nbsp;
   <a href="mailto:anjanibeesu@gmail.com">EMAIL</a>
@@ -69,19 +67,7 @@
 </p>
 
 
-## 05 / Leadership
-
-**Class Representative**  
-*Semester 1 – Present (semester 3)*
-
-- Selected in Semester 1 and retained the role through consistent leadership and coordination.
-- Coordinate academic communication between 60+ students and faculty, including schedules, attendance, submissions, and issue resolution.
-
-**Event Organizer — Department and College Events**
-
-- Managed financial aspects of four department-level events and one college-level event, supporting budgeting, expense tracking, and event coordination.
-
-## 06 / Certification
+## 05 / Certification
 
 **Python for Data Science, AI & Development — IBM**  
 [Verify certificate](https://www.coursera.org/account/accomplishments/verify/3XOBG399VIG7)
