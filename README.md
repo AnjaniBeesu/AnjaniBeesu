@@ -1,7 +1,9 @@
 <!-- Visual identity: monochrome black and white. -->
 
+<h1 align="center">ANJANI BEESU</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=28&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=800&height=90&lines=ANJANI+BEESU;CSE+UNDERGRADUATE;BUILDING+USEFUL+SOFTWARE" alt="Animated introduction: Anjani Beesu, CSE undergraduate, building useful software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&size=16&duration=2600&pause=850&color=BBBBBB&background=00000000&center=true&vCenter=true&width=520&height=32&lines=CSE+UNDERGRADUATE;BUILDING+USEFUL+SOFTWARE;CURIOUS+BY+DEFAULT" alt="Rotating subtitle: CSE undergraduate, building useful software, curious by default" />
 </p>
 
 <p align="center">
