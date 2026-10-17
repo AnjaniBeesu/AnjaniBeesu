@@ -19,7 +19,7 @@
 ## 01 / Education
 
 **B.Tech · Computer Science Engineering (CSE)**  
-2025 – 2029 &nbsp; · &nbsp; CGPA: 8.80
+2025 – 2029 &nbsp; 
 
 ## 02 / Tech Stack I Work With
 
