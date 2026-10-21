@@ -3,6 +3,10 @@
 <h1 align="center">ANJANI BEESU</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnjaniBeesu&style=flat-square&color=BBBBBB&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&size=16&duration=2600&pause=850&color=BBBBBB&background=00000000&center=true&vCenter=true&width=520&height=32&lines=CSE+UNDERGRADUATE;BUILDING+USEFUL+SOFTWARE;CURIOUS+BY+DEFAULT" alt="Rotating subtitle: CSE undergraduate, building useful software, curious by default" />
 </p>
 
