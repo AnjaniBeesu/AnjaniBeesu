@@ -67,8 +67,8 @@
 
 ## 04 / GitHub stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD&icon_color=FFFFFF" alt="GitHub stats for AnjaniBeesu" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD" alt="Most-used languages for AnjaniBeesu" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD&icon_color=FFFFFF&cache_seconds=86400" alt="GitHub stats for AnjaniBeesu" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD&cache_seconds=86400" alt="Most-used languages for AnjaniBeesu" />
 </p>
 
 
