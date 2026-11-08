@@ -65,12 +65,18 @@
   </tr>
 </table>
 
-## 04 / GitHub stats
+## 04 / GitHub activity
+
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD&icon_color=FFFFFF&cache_seconds=86400" alt="GitHub stats for AnjaniBeesu" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD&cache_seconds=86400" alt="Most-used languages for AnjaniBeesu" />
+  <img src="https://img.shields.io/badge/MERGED_PULL_REQUESTS-75%2B-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="75+ merged pull requests" />
 </p>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD&icon_color=FFFFFF" alt="GitHub repository and commit statistics for AnjaniBeesu" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD" alt="Most-used languages for AnjaniBeesu" />
+</p>
+
+<p align="center"><sub>PR count reflects the 75+ merged pull requests reported by me; GitHub stats cards show separate repository and language metrics.</sub></p>
 
 ## 05 / Certification
 
