@@ -76,7 +76,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD" alt="Most-used languages for AnjaniBeesu" />
 </p>
 
-<p align="center"><sub>PR count reflects the 75+ merged pull requests reported by me; GitHub stats cards show separate repository and language metrics.</sub></p>
+
 
 ## 05 / Certification
 
