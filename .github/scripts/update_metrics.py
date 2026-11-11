@@ -25,42 +25,9 @@ def github_get(url):
 
 def search_count(query):
     encoded = urllib.parse.quote(query, safe=":+")
-    return github_get(f"https://api.github.com/search/issues?q={encoded}&per_page=1")["total_count"]
-
-
-def collect_languages():
-    totals = defaultdict(int)
-    page = 1
-    while True:
-        repos = github_get(
-            f"https://api.github.com/users/{USERNAME}/repos?type=owner&per_page=100&page={page}"
-        )
-        if not repos:
-            break
-        for repo in repos:
-            if repo.get("fork") or repo.get("archived"):
-                continue
-            languages = github_get(repo["languages_url"])
-            for language, byte_count in languages.items():
-                totals[language] += byte_count
-        if len(repos) < 100:
-            break
-        page += 1
-    return totals
-
-
-def render_languages(totals):
-    total = sum(totals.values())
-    if not total:
-        return "_No public repository language data found yet._"
-    rows = [
-        "| Language | Share of code |",
-        "|:--|--:|",
-    ]
-    for language, byte_count in sorted(totals.items(), key=lambda item: item[1], reverse=True):
-        percentage = byte_count / total * 100
-        rows.append(f"| {language} | {percentage:.1f}% |")
-    return "\n".join(rows)
+    return github_get(
+        f"https://api.github.com/search/issues?q={encoded}&per_page=1"
+    )["total_count"]
 
 
 total_prs = search_count(f"is:pr author:{USERNAME}")
@@ -77,7 +44,7 @@ section = f"""<p align="center">
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD&icon_color=FFFFFF" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&langs_count=20&all_langs=true&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD" alt="All detected programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&langs_count=20&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD" alt="Most-used programming languages" />
 </p>
 
 <sub>PR counts refresh automatically through GitHub Actions. Repository and language cards are provided by github-readme-stats.</sub>"""
@@ -90,4 +57,4 @@ if start not in readme or end not in readme:
 before, remainder = readme.split(start, 1)
 _, after = remainder.split(end, 1)
 README.write_text(f"{before}{start}\n{section}\n{end}{after}", encoding="utf-8")
-print(f"Updated metrics: {total_prs} PRs, {merged_prs} merged, {0} languages.")
+print(f"Updated PR metrics: {total_prs} total, {merged_prs} merged, {open_prs} open.")
