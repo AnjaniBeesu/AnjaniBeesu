@@ -68,7 +68,25 @@
 ## 04 / GitHub activity
 
 <!-- BEGIN GITHUB METRICS -->
-_GitHub metrics are being generated automatically. The first refresh runs through GitHub Actions._
+<p align="center">
+  <img src="https://img.shields.io/badge/PULL_REQUESTS-33-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="33 authored pull requests" />
+  <img src="https://img.shields.io/badge/MERGED-20-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="20 merged pull requests" />
+  <img src="https://img.shields.io/badge/OPEN-9-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="9 open pull requests" />
+</p>
+
+### All repository languages
+
+| Language | Share of code |
+|:--|--:|
+| HTML | 74.8% |
+| TypeScript | 20.6% |
+| Python | 2.7% |
+| CSS | 1.0% |
+| JavaScript | 0.7% |
+| Java | 0.1% |
+| Dockerfile | 0.0% |
+
+<sub>Automatically refreshed by GitHub Actions · Language percentages are weighted by bytes across non-fork, non-archived public repositories.</sub>
 <!-- END GITHUB METRICS -->
 
 ## 05 / Certification
