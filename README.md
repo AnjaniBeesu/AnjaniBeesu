@@ -23,7 +23,7 @@
 ## 01 / Education
 
 **B.Tech · Computer Science Engineering (CSE)**  
-2025 – 2029 &nbsp; 
+2025 – 2029
 
 ## 02 / Tech Stack I Work With
 
@@ -67,16 +67,9 @@
 
 ## 04 / GitHub activity
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERGED_PULL_REQUESTS-75%2B-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="75+ merged pull requests" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD&icon_color=FFFFFF" alt="GitHub repository and commit statistics for AnjaniBeesu" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD" alt="Most-used languages for AnjaniBeesu" />
-</p>
-
-
+<!-- BEGIN GITHUB METRICS -->
+_GitHub metrics are being generated automatically. The first refresh runs through GitHub Actions._
+<!-- END GITHUB METRICS -->
 
 ## 05 / Certification
 
