@@ -74,19 +74,14 @@
   <img src="https://img.shields.io/badge/OPEN-9-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="9 open pull requests" />
 </p>
 
-### All repository languages
+### GitHub statistics
 
-| Language | Share of code |
-|:--|--:|
-| HTML | 74.8% |
-| TypeScript | 20.6% |
-| Python | 2.7% |
-| CSS | 1.0% |
-| JavaScript | 0.7% |
-| Java | 0.1% |
-| Dockerfile | 0.0% |
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjaniBeesu&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD&icon_color=FFFFFF" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaniBeesu&layout=compact&langs_count=20&hide_border=true&bg_color=111111&title_color=FFFFFF&text_color=DDDDDD" alt="Most-used programming languages" />
+</p>
 
-<sub>Automatically refreshed by GitHub Actions · Language percentages are weighted by bytes across non-fork, non-archived public repositories.</sub>
+<sub>PR counts refresh automatically through GitHub Actions. Repository and language cards are provided by github-readme-stats.</sub>
 <!-- END GITHUB METRICS -->
 
 ## 05 / Certification
