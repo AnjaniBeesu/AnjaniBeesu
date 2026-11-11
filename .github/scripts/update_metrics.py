@@ -64,9 +64,9 @@ def render_languages(totals):
     return "\n".join(rows)
 
 
-total_prs = search_count(f"type:pr author:{USERNAME}")
-merged_prs = search_count(f"type:pr is:merged author:{USERNAME}")
-open_prs = search_count(f"type:pr is:open author:{USERNAME}")
+total_prs = search_count(f"is:pr author:{USERNAME}")
+merged_prs = search_count(f"is:pr is:merged author:{USERNAME}")
+open_prs = search_count(f"is:pr is:open author:{USERNAME}")
 languages = collect_languages()
 
 section = f"""<p align="center">
