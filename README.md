@@ -70,8 +70,8 @@
 <!-- BEGIN GITHUB METRICS -->
 <p align="center">
   <img src="https://img.shields.io/badge/PULL_REQUESTS-33-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="33 authored pull requests" />
-  <img src="https://img.shields.io/badge/MERGED-20-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="20 merged pull requests" />
-  <img src="https://img.shields.io/badge/OPEN-9-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="9 open pull requests" />
+  <img src="https://img.shields.io/badge/MERGED-21-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="21 merged pull requests" />
+  <img src="https://img.shields.io/badge/OPEN-8-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="8 open pull requests" />
 </p>
 
 ### GitHub statistics
